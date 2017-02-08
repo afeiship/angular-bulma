@@ -22,5 +22,9 @@
     "src",
     "gulp",
     "gulpfile.js"
-  ]
+  ],
+  "dependencies": {
+    "bulma": "^0.3.1",
+    "angular": "angularjs#^1.6.2"
+  }
 }
