@@ -6,7 +6,7 @@
       return {
         restrict: 'E',
         transclude: true,
-        template: '<div class="button {{cssClass}}" transclude></div>'
+        template: '<div class="button {{modifier}} {{cssClass}}" transclude></div>'
       };
     }]);
 
