@@ -1,0 +1,24 @@
+{
+  "name": "bulma-notes",
+  "version": "1.0.0",
+  "description": "Bulma notes.",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/bulma-notes.git"
+  },
+  "keywords": [
+    "bulma"
+  ],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/bulma-notes/issues"
+  },
+  "homepage": "https://github.com/afeiship/bulma-notes#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
